@@ -1,1 +1,1 @@
-This project deals with Image Histograms and seeks to use computer vision to dissect images.
+This project deals with Image Histograms and seeks to use computer vision to dissect images. 
